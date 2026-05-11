@@ -1,7 +1,7 @@
 <h2 align="center">Ahmed Sevindik</h2>
 
 <p align="center">
-  <b>📱 Flutter UI Developer</b> • <b>🔐 Cybersecurity Enthusiast</b>
+  <b>📱 Flutter UI Developer</b> 
 </p>
 
 <p align="center">
