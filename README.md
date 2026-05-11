@@ -1,16 +1,20 @@
-## Hi there 👋
+<h2 align="center">Ahmed Sevindik</h2>
 
-<!--
-**AhmedSevindik/AhmedSevindik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>📱 Flutter UI Developer</b> • <b>🔐 Cybersecurity Enthusiast</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Flutter developer focused on modern UI design, responsive layouts, and clean user experiences.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>"Good UI speaks for itself."</i>
+</p>
+
+<p align="center">
+  📫 
+  How to reach me: <a href="ahmedsevindik3@gmail.com">ahmedsevindik3@gmail.com</a>
+</p>
+
+---
