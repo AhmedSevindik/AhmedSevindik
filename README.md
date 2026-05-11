@@ -1,20 +1,47 @@
-<h2 align="center">Ahmed Sevindik</h2>
+<h1 align="center">Ahmed Sevindik</h1>
 
 <p align="center">
-  <b>📱 Flutter UI Developer</b> 
+  🎨 Flutter UI Developer
 </p>
 
 <p align="center">
-  Flutter developer focused on modern UI design, responsive layouts, and clean user experiences.
+  Building modern, responsive, and clean mobile interfaces with Flutter.
 </p>
 
 <p align="center">
-  <i>"Good UI speaks for itself."</i>
-</p>
-
-<p align="center">
-  📫 
-  How to reach me: <a href="ahmedsevindik3@gmail.com">ahmedsevindik3@gmail.com</a>
+  <i>"Good UI feels invisible."</i>
 </p>
 
 ---
+
+### 🚀 About Me
+
+- 📱 Focused on Flutter & modern mobile UI development
+- 🎯 Interested in responsive design and smooth user experience
+- 🧠 Currently improving my backend and cybersecurity knowledge
+- ⚡ I enjoy turning complex ideas into simple interfaces
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,html,css,js,git,github,vscode,figma" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 📚 Quiz & Learning App UI
+- 💬 Modern Chat Application UI
+- 🧠 AI Powered Study Assistant
+- 🎵 Music Streaming App Concept
+- 🏋️ Fitness Tracking Mobile UI
+
+---
+
+### 📫 Contact
+
+- ✉️ Email: ahmedsevindik3@gmail.com
+- 🌐 GitHub: https://github.com/AhmedSevindik
