@@ -1,7 +1,7 @@
 <h1 align="center">Ahmed Sevindik</h1>
 
 <p align="center">
-  🎨 Flutter UI Developer
+  🎨 Flutter UI Developer And AI learner
 </p>
 
 <p align="center">
