@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=625&height=44&lines=just%20Trying%20to%20be%20better%20than%20yesterday;Gaye%20d%C3%BCnden%20daha%20iyi%20olamak" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=625&height=44&lines=just%20Trying%20to%20be%20better%20than%20yesterday;Gaye%20d%C3%BCnden%20daha%20iyi%20olmak" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
